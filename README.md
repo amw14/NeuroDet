@@ -1,0 +1,2 @@
+# NeuroDet
+Early detection of brain tumors improves the outcome of survival in diagnosed patients. Therefore, it is important to identify brain tumors before they become more aggressive. Our goal is to classify brain tumor images by their level of severity using different neural network architectures. We will start with CNNs as our baseline architecture, build other models based on an RNN architecture, and possibly implement a variational autoencoder (VAE) model. We will present a comparative analysis of the different types of model architectures we tested.
